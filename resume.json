@@ -1,0 +1,50 @@
+{
+	"personalInfo": {
+		"name": "DANIEL NADEAU",
+		"email": "dnadeau813@gmail.com",
+		"phoneNumber": "(603) 702-2900"
+	},
+	"resumeHeaders": [
+		"SKILLS",
+		"EDUCATION",
+		"EXPERIENCE"
+	],
+	"skills": [
+		{
+			"skillName": "C++",
+			"relevanceDescription": "Accomplished many solo and group projects among courses focusing on the language."
+		},
+		{
+			"skillName": "HTML, CSS, JAVASCRIPT",
+			"relevanceDescription": "Enrolled in web programming course covering the basics of all three."
+		}
+	],
+	"education": [
+		{
+			"schoolName": "UTAH VALLEY UNIVERSITY",
+			"timeStamp": "(2015-PRESENT)",
+			"majorName": "COMPUTER SCIENCE",
+			"relevanceDescription": "Currently in my junior year toward obtaining a bachelor’s degree in Computer Science. "
+		},
+		{
+			"schoolName": "BYU-IDAHO",
+			"timeStamp": "(2011-2014)",
+			"majorName": "PHYSICS",
+			"relevanceDescription": "Started degree in Physics but decided to switch majors and schools in 2015."
+		}
+	],
+	"experience": [
+		{
+			"companyName": "ROB'S BABITTING",
+			"timeStamp": "(EAST KINGSTON NH 2012-2013)",
+			"jobTitle": "SHOP ASSISTANT",
+			"relevanceDescription": "Repaired metal alloy in bearings used in heavy equipment."
+		},
+		{
+			"companyName": "PROPERTY MANAGEMENT",
+			"timeStamp": "(DOVER NH 2014-2017)",
+			"jobTitle": "MAINTENANCE",
+			"relevanceDescription": "Duties included landscaping, painting, heavy lifting, and cleaning."
+		}
+	]
+}
