@@ -1,0 +1,50 @@
+{
+	"personalInfo": {
+		"name": "DANIEL NADEAU",
+		"email": "aenean@sapien.et",
+		"phoneNumber": "(603) 702-2900"
+	},
+	"resumeHeaders": [
+		"SKILLS",
+		"EDUCATION",
+		"EXPERIENCE"
+	],
+	"skills": [
+		{
+			"skillName": "ANTE",
+			"relevanceDescription": "Nam feugiat sem leo, cursus laoreet tellus commodo id. Donec ut sapien bibendum."
+		},
+		{
+			"skillName": "POTO, KEL, COMODO",
+			"relevanceDescription": "Maecenas eu ex suscipit, ultrices mauris a, aliquet sem. Vivamus ac venenatis orci."
+		}
+	],
+	"education": [
+		{
+			"schoolName": "QUIS DONEC MOLIPIBUS",
+			"timeStamp": "(2015-VESTIB)",
+			"majorName": "TELLUS BIPENDUM",
+			"relevanceDescription": "Vestibulum tincidunt dapibus placerat. Suspendisse potenti. Donec molestie eu."
+		},
+		{
+			"schoolName": "LEO-CURSUS",
+			"timeStamp": "(2011-2014)",
+			"majorName": "LACUS",
+			"relevanceDescription": "Quisque vestibulum metus sit amet venenatis tempor. Donec gravida orci non lacus aliquam."
+		}
+	],
+	"experience": [
+		{
+			"companyName": "METUN'S TEMPOR",
+			"timeStamp": "(QUIS ALIQUAM IM 2012-2013)",
+			"jobTitle": "GRAVIDA",
+			"relevanceDescription": "Tellus ut nibh fermentum bibendum at eu turpis. Praesent hendrerit consequat nunc."
+		},
+		{
+			"companyName": "LACUS FAUCIBUS",
+			"timeStamp": "(SEMBER KI 2014-2017)",
+			"jobTitle": "FERMENTUM",
+			"relevanceDescription": "lacus nulla, faucibus non tortor eu, semper cursus turpis. Proin fermentum ac nunc placerat."
+		}
+	]
+}
