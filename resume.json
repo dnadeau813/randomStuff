@@ -47,4 +47,16 @@
 			"relevanceDescription": "Duties included landscaping, painting, heavy lifting, and cleaning."
 		}
 	]
+	"projects": [
+		{
+			"projectName": "Project One",
+			"language": "C++",
+			"description": "I did stuff in this project and it was good. I participated in a group and typed code which was used in the final product."
+		},
+		{
+			"projectName": "Project Two",
+			"language": "HTML, JavaScript, CSS, JQUERY",
+			"description": "This is another project that I did i think i really did well on it. Man oh man this project was great. Blah blah bleedy bloo blah."
+		}
+	]
 }
