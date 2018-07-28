@@ -1,0 +1,132 @@
+{
+    "dogs":[
+        {
+            "name":"Patrick",
+            "breed":"Chihuahua",
+            "sex":"m",
+            "shots":[
+                {"shot":"Rabies", "date":"07/16/18"},
+                {"shot":"Other", "date":"04/12/18"}
+            ],
+            "birthday":"/02/12/14",
+            "size":"s",
+            "licensed":true,
+            "neutered":false,
+            "owners":"James Deangelis",
+            "notes":"Good Dog" 
+        },
+        {
+            "name":"Katherine",
+            "breed":"Lab",
+            "sex":"f",
+            "shots":[
+                {"shot":"Rabies", "date":"7/12/12"}
+            ],
+            "birthday":"02/02/02",
+            "size":"m",
+            "licensed":true,
+            "neutered":true,
+            "owners":"Bob",
+            "notes":"Good dog"  
+        },
+        {
+            "name":"Steve",
+            "breed":"Golden Retriever",
+            "sex":"m",
+            "shots":[
+                {"shot":"rabies", "date":"03/03/09"},
+                {"shot":"somekindofshot", "date":"11/21/17"}
+            ],
+            "birthday":"01/01/09",
+            "size":"m",
+            "licensed":false,
+            "neutered":false,
+            "owners":"Delilah Johnson",
+            "notes":"Goodboy" 
+        },
+        {
+            "name":"Pocket",
+            "breed":"Border Collie",
+            "sex":"m",
+            "shots":[
+                {"shot":"Rabies", "date":"07/19/18"},
+                {"shot":"xyz", "date":"08/08/12"}
+            ],
+            "birthday":"07/07/12",
+            "size":"m",
+            "licensed":true,
+            "neutered":true,
+            "owners":"Valen Kolaire",
+            "notes":"Good" 
+        }
+    ],
+    "cats":[
+        {
+            "name":"Mittens",
+            "breed":"Bengal",
+            "sex":"m",
+            "shots":[
+                {"shot":"CatShot1", "date":"01/01/17"},
+                {"shot":"CatShot2", "date":"02/02/18"}
+            ],
+            "birthday":"11/17/17",
+            "declawed":true,
+            "neutered":true,
+            "owners":"Dorthy Maylow",
+            "notes":"Its a cat"
+        },
+        {
+            "name":"Brian",
+            "breed":"Siamese",
+            "sex":"f",
+            "shots":[
+                {"shot":"Rabies", "date":"12/12/15"}
+            ],
+            "birthday":"12/23/13",
+            "declawed":false,
+            "neutered":false,
+            "owners":"Phil Brosh",
+            "notes":"Cat has issues."
+        },
+        {
+            "name":"Lilith",
+            "breed":"Ragdoll",
+            "sex":"f",
+            "shots":[
+                {"shot":"Rabies", "date":"02/07/11"},
+            ],
+            "birthday":"02/02/15",
+            "declawed":true,
+            "neutered":true,
+            "owners":"John Cameron",
+            "notes":" Cats and stuff"
+        }
+    ],
+    "exotics":[
+        {
+            "name":"Korgon",
+            "Species":"Lizard",
+            "sex":"m",
+            "birthday":"02/02/14",
+            "owners":"Merlin The Wizard",
+            "notes":"He thinks its a dragon."
+        },
+        {
+            "name":"Jibbers",
+            "Species":"Gerbil",
+            "sex":"f",
+            "birthday":"02/02/13",
+            "owners":"Sarah Barker",
+            "notes":"He is overfed."
+        },
+        {
+            "name":"Red Baron",
+            "Species":"Parakeet",
+            "sex":"m",
+            "birthday":"02/02/13",
+            "owners":"Cowboy Bebop",
+            "notes":"Its a bird and stuff."
+        }
+    ]
+    
+}
