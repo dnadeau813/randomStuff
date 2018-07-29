@@ -8,7 +8,7 @@
                 {"shot":"Rabies", "date":"07/16/18"},
                 {"shot":"Other", "date":"04/12/18"}
             ],
-            "birthday":"/02/12/14",
+            "birthday":"02/12/14",
             "size":"s",
             "licensed":true,
             "neutered":false,
